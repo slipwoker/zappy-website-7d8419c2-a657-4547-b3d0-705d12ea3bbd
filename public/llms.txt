@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Welcome to DAX, your ultimate destination for stunning furniture collections. Browse curated styles, unbeatable black friday deals store offers, and transform your home today.
+
+### Inspiration
+https://example.com/inspiration
+Unlock stunning interior design ideas at DAX. Discover room setups, style guides, and curated looks that help home buyers and design enthusiasts create spaces they love.
+
+### About
+https://example.com/about
+DAX is more than a used furniture store — it&#39;s a movement. Learn our story, our mission, and why thousands of design lovers trust DAX for quality, style, and value.
+
+### Contact
+https://example.com/contact
+Have questions about black friday deals store offers or need styling advice? Reach out to the DAX team today — we&#39;re here to guide every step of your furniture journey.
+
+### Products
+https://example.com/products
+Our Products - DAX
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - DAX
+
+### Category
+https://example.com/category/:slug
+Products - DAX
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
